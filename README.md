@@ -1,7 +1,7 @@
 # RowsGardenConstructor
 Rows Garden Constructor
 This is my attempt to create an improved Rows Garden Constructor with increased features and capabilities.
-I was inspired by [this one created by Crossword Nexus.] (https://crosswordnexus.github.io/variety-tools/rows-garden/)
+I was inspired by [this one created by Crossword Nexus](https://crosswordnexus.github.io/variety-tools/rows-garden/).
 
 ## What Already Exists
 The Crossword Nexus tool creates a Rows Garden puzzle based on your initial input of the first line or lines. 
