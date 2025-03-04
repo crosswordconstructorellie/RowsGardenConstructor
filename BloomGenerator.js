@@ -3,7 +3,9 @@ function findWordsFromPattern(input, wordlist) {
     // Function to check if a word matches the pattern, considering wildcards and circular wraparound
     const matchPattern = (word, pattern) => {
         // Check if the word is of 6 letters length
-        if (word.length !== 6) return false;
+        if (word.length !== 6) 
+            console.log("Input must be 6 letters. Use ? as a wildcard for missing letters.")
+            return false;
         
         for (let i = 0; i < 6; i++) {
             let match = true;
